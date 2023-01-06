@@ -21,7 +21,7 @@ while True:
 # 이미지의 가로, 세로 길이를 가져옴
     width, height = image.size
 
-# 이미지의 가로, 세로 길이를 50%로 줄임
+# 이미지의 가로, 세로 길이를 2/3로 줄임
     new_width = width * 2 // 3
     new_height = height * 2 // 3
 
